@@ -1,0 +1,10 @@
+
+
+==========================================================
+
+
+
+app1: created with streamlit , here fast API is not used.
+
+# To test Streamlit API, run the command below on the terminal-
+# run:  streamlit run app1.py
