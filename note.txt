@@ -1,10 +1,14 @@
 
 
-==========================================================
-
-
-
+========================================================
 app1: created with streamlit , here fast API is not used.
 
 # To test Streamlit API, run the command below on the terminal-
 # run:  streamlit run app1.py
+=======================================================
+
+Test Web App
+Once the web app is deployed on the Streamlit server, a web page will open in the browser as shown below
+
+https://app-ml-deployment-banknoteclassifier-5m3446qudjrxkkeeywdkl5.streamlit.app/
+
